@@ -19,3 +19,4 @@
 | Instalação das Ferramentas        | [Arquivo Guia]()                            | [Arquivo GO](go.AULAS/aula.002/instalacao.yaml) |
 | Escrevendo seu primeiro Olá Mundo | [Arquivo Guia]()                            | [Arquivo GO](go.AULAS/aula.003/main.go)         |
 | Pacotes                           | [Arquivo Guia](go.AULAS/aula.004/README.md) | [Arquivo GO](go.AULAS/aula.004/main.go)         |
+| Pacotes Externos                  | [Arquivo Guia]()                            | [Arquivo GO](go.AULAS/aula.005/main.go)         |
