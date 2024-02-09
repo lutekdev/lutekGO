@@ -1,3 +1,3 @@
-# LutekGo
+# LutekGO
 
 ![alt](assets/img/goLang.svg)
