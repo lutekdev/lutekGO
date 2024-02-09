@@ -13,3 +13,5 @@
 | Usando Pacotes Externos | [Clique Aqui](../go.AULAS/aula.005/main.go) |
 
 - **`go mod init [Nome do Módulo]`**
+
+> A Linguagem GO é uma Linguagem Fortemente Tipada.
