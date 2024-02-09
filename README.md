@@ -1,6 +1,6 @@
 # LutekGO
 
-![alt](assets/img/goLang.svg)
+![alt](assets/img/golang.svg)
 
 ---
 
