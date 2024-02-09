@@ -1,2 +1,4 @@
 github.com/badoux/checkmail v1.2.4 h1:4zMjdYDjE2Q7xF06VNfyN8P9JGU7epLjNb+Yu5OThVI=
 github.com/badoux/checkmail v1.2.4/go.mod h1:XroCOBU5zzZJcLvgwU15I+2xXyCdTWXyR9MGfRhBYy0=
+github.com/rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary v0.0.0-20220616060117-acd9d25ee76e h1:OaSEx4Q4WtkKmsYOSAyareiL0Y/wvIhDOzaNs2mHu/Q=
+github.com/rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary v0.0.0-20220616060117-acd9d25ee76e/go.mod h1:wJMMCyakN2SSEw2DGy/hlp2Ftjq8942V4AijZFT5P2o=

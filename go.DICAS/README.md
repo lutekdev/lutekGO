@@ -7,11 +7,17 @@
 > criar
 > basta digitar os comandos que deixarei abaixo:
 
-| Assuntos                | Links                                       |
-|-------------------------|---------------------------------------------|
-| Criando um módulo       | [Clique Aqui](../go.AULAS/aula.003/main.go) | 
-| Usando Pacotes Externos | [Clique Aqui](../go.AULAS/aula.005/main.go) |
+| Assuntos                        | Links                                       |
+|---------------------------------|---------------------------------------------|
+| Criando um módulo               | [Clique Aqui](../go.AULAS/aula.003/main.go) | 
+| Usando Pacotes Externos         | [Clique Aqui](../go.AULAS/aula.005/main.go) |
+| Invertendo Valores de Variaveis | [Clique Aqui](../go.AULAS/aula.006/main.go) |
 
 - **`go mod init [Nome do Módulo]`**
 
-> A Linguagem GO é uma Linguagem Fortemente Tipada.
+## :bulb: INFORMAÇÕES EXTRAS
+
+- A Linguagem Golang é uma Linguagem Fortemente Tipada.
+- Na Linguagem Golang você pode inverter valores de Variáveis de forma Rápida;
+
+---
