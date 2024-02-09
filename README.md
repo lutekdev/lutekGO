@@ -12,7 +12,8 @@
 
 # Sumário Completo das Aulas
 
-| Titulos                    | GUIA             | .GO                                             |
-| -------------------------- | ---------------- | ----------------------------------------------- |
-| Boas Vindas                | [Arquivo Guia]() | [Arquivo GO](go.AULAS/aula.001/introducao.yaml) |
-| Instalação das Ferramentas | [Arquivo Guia]() | [Arquivo GO](go.AULAS/aula.002/instalacao.yaml) |
+| Titulos                           | GUIA             | .GO                                             |
+| --------------------------------- | ---------------- | ----------------------------------------------- |
+| Boas Vindas                       | [Arquivo Guia]() | [Arquivo GO](go.AULAS/aula.001/introducao.yaml) |
+| Instalação das Ferramentas        | [Arquivo Guia]() | [Arquivo GO](go.AULAS/aula.002/instalacao.yaml) |
+| Escrevendo seu primeiro Olá Mundo | [Arquivo Guia]() | [Arquivo GO](go.AULAS/aula.003/main.go)         |
